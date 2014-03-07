@@ -1,4 +1,4 @@
 AVB-app
 =======
 
-jQuery Mobile with ASP.NET C#
+jQuery Mobile app with ASP.NET C# and LINQ
