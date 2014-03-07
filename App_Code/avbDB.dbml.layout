@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="avbDB">
+  <DataContextMoniker Name="/avbDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="810a3836-c584-473e-b2f7-2d4eb3126f56" absoluteBounds="0.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/avbDBDataContext/avb_content" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8c6f4e4a-c2b7-4812-a1ab-11dddb96863c" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b897f4a5-ffff-41ee-a15c-e998d66484d0" absoluteBounds="3.75, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/avbDBDataContext/avb_contact" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e19c86ec-4cc0-4d72-aeaa-3a6d6d8b5ea4" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,30 @@
+﻿/* Colours
+	Purple = #794de4
+	Pink = #fc82fb
+*/
+
+body 
+{
+	font-family: 'Maven Pro', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 
+{
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	font-weight: normal;
+}
+a:hover 
+{
+	color: #794de4;
+}
+.title 
+{
+	margin-left: 1em;
+}
+.validation 
+{
+	color: White;
+	background-color: Purple;
+	padding: 0.2em;
+	margin-bottom: 1em;
+}
